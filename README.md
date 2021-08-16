@@ -2,7 +2,7 @@
 
 Table of Contents
 
-1.Module Introsuction
+1.Module Introduction
 
 2.Splitting Apps into Components
 
